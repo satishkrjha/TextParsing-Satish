@@ -1,0 +1,8 @@
+D:\AuthorTest\AuthorTest\bin\Debug\AuthorTest.exe.config
+D:\AuthorTest\AuthorTest\bin\Debug\AuthorTest.exe
+D:\AuthorTest\AuthorTest\bin\Debug\AuthorTest.pdb
+D:\AuthorTest\AuthorTest\obj\Debug\AuthorTest.csprojResolveAssemblyReference.cache
+D:\AuthorTest\AuthorTest\obj\Debug\AuthorTest.exe
+D:\AuthorTest\AuthorTest\obj\Debug\AuthorTest.pdb
+D:\AuthorTest\AuthorTest\bin\Debug\ParserLibrary.dll
+D:\AuthorTest\AuthorTest\bin\Debug\ParserLibrary.pdb

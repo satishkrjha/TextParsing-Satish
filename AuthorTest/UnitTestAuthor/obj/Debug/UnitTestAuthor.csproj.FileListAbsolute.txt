@@ -1,0 +1,8 @@
+D:\AuthorTest\UnitTestAuthor\obj\Debug\UnitTestAuthor.csprojResolveAssemblyReference.cache
+D:\AuthorTest\UnitTestAuthor\bin\Debug\UnitTestAuthor.dll
+D:\AuthorTest\UnitTestAuthor\bin\Debug\UnitTestAuthor.pdb
+D:\AuthorTest\UnitTestAuthor\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\AuthorTest\UnitTestAuthor\bin\Debug\ParserLibrary.dll
+D:\AuthorTest\UnitTestAuthor\bin\Debug\ParserLibrary.pdb
+D:\AuthorTest\UnitTestAuthor\obj\Debug\UnitTestAuthor.dll
+D:\AuthorTest\UnitTestAuthor\obj\Debug\UnitTestAuthor.pdb

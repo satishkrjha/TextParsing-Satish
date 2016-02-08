@@ -1,0 +1,10 @@
+Project:AuthorTest
+This is console application ,Here we can easily test the funtion by enter the input text and get the output.
+
+Project:ParserLibrary
+This is a Class library where we have the logics of authors code.
+Class:clsParserLibrary
+Function:WordsCount(string input)
+
+Project:UnitTestAuthor
+This project is for UnitTesting.

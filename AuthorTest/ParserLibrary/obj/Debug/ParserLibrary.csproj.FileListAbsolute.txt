@@ -1,0 +1,5 @@
+D:\AuthorTest\ParserLibrary\bin\Debug\ParserLibrary.dll
+D:\AuthorTest\ParserLibrary\bin\Debug\ParserLibrary.pdb
+D:\AuthorTest\ParserLibrary\obj\Debug\ParserLibrary.csprojResolveAssemblyReference.cache
+D:\AuthorTest\ParserLibrary\obj\Debug\ParserLibrary.dll
+D:\AuthorTest\ParserLibrary\obj\Debug\ParserLibrary.pdb
